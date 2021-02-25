@@ -16,9 +16,9 @@
 <br>
 
 ### Languages and Tools :
-[<img align="left" alt="" width="22px" src="icons/visual-studio.svg"/>][visualStudio]
-[<img align="left" alt="" width="22px" src="icons/java.svg"/>][java]
-[<img align="left" alt="" width="22px" src="icons/javascript.svg"/>][javascript]
+[<img align="left" alt="" width="26px" src="icons/visual-studio.svg"/>][visualStudio]
+[<img align="left" alt="" width="26px" src="icons/java.svg"/>][java]
+[<img align="left" alt="" width="26px" src="icons/javascript.svg"/>][javascript]
 
 [facebook]: https://web.facebook.com/rista.nafsir/
 [instagram]: https://www.instagram.com/rista_f.n/
