@@ -6,19 +6,28 @@
 - Fun fact : I love play a game and working at home
 
 ### Connect with me :
-[<img align="left" alt="" width="22px" src="icons/facebook.svg"/>][facebook]
-[<img align="left" alt="" width="22px" src="icons/instagram.svg"/>][instagram]
-[<img align="left" alt="" width="22px" src="icons/twitter.svg"/>][twitter]
-[<img align="left" alt="" width="22px" src="icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="" width="22px" src="icons/gmail.svg"/>][gmail]
-[<img align="left" alt="" width="22px" src="icons/discord.svg"/>][discord]
+[<img align="left" alt="" width="22px" src="icons/facebook.svg">][facebook]
+[<img align="left" alt="" width="22px" src="icons/instagram.svg">][instagram]
+[<img align="left" alt="" width="22px" src="icons/twitter.svg">][twitter]
+[<img align="left" alt="" width="22px" src="icons/linkedin.svg">][linkedin]
+[<img align="left" alt="" width="22px" src="icons/gmail.svg">][gmail]
+[<img align="left" alt="" width="22px" src="icons/discord.svg">][discord]
 
 <br>
 
 ### Languages and Tools :
-[<img align="left" alt="" width="26px" src="icons/visual-studio.svg"/>][visualStudio]
-[<img align="left" alt="" width="26px" src="icons/java.svg"/>][java]
-[<img align="left" alt="" width="26px" src="icons/javascript.svg"/>][javascript]
+[<img align="left" alt="" width="26px" src="icons/visual-studio.svg">][visualStudio]
+[<img align="left" alt="" width="26px" src="icons/java.svg">][java]
+[<img align="left" alt="" width="26px" src="icons/javascript.svg">][javascript]
+
+<br>
+<br>
+
+---
+
+<br>
+
+<img align="left" alt="ristafn_stats" src="https://github-readme-stats.vercel.app/api?username=ristafn&show_icons=true&theme=tokyonight">
 
 [facebook]: https://web.facebook.com/rista.nafsir/
 [instagram]: https://www.instagram.com/rista_f.n/
