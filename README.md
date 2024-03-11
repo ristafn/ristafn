@@ -29,9 +29,6 @@
 
 <img align="left" alt="ristafn_stats" src="https://github-readme-stats.vercel.app/api?username=ristafn&show_icons=true&theme=tokyonight">
 
-[facebook]: https://web.facebook.com/rista.nafsir/
-[instagram]: https://www.instagram.com/rista_f.n/
-[twitter]: https://twitter.com/RistaFN1
 [linkedin]: https://www.linkedin.com/in/rista-f-n-a84a211a2/
 [gmail]: https://mail.google.com/mail/u/?authuser=golemmite26@gmail.com
 [discord]: https://discordapp.com/users/812663288290476032/
